@@ -1,0 +1,647 @@
+code,description,matched_keyword,category
+LAB//51986//N/A,Neisseria gonorrhoeae rRNA [Presence] in Urine by NAA with probe detection,urine,CORE_KIDNEY_FUNCTION
+LAB//51466//N/A,Blood [Presence] in Urine by Visual,urine,CORE_KIDNEY_FUNCTION
+LAB//51493//#/hpf,Erythrocytes [#/area] in Urine sediment by Microscopy high power field,urine,CORE_KIDNEY_FUNCTION
+DIAGNOSIS//ICD//10//I447,"Left bundle-branch block, unspecified",bun,CORE_KIDNEY_FUNCTION
+LAB//51094//UNK,pH of Urine,urine,CORE_KIDNEY_FUNCTION
+LAB//51106//mg/dL,Creatinine [Mass/volume] in Urine,creatinine,CORE_KIDNEY_FUNCTION
+LAB//51482//#/lpf,Hyaline casts [#/area] in Urine sediment by Microscopy low power field,urine,CORE_KIDNEY_FUNCTION
+LAB//51484//mg/dL,Ketones [Mass/volume] in Urine by Test strip,urine,CORE_KIDNEY_FUNCTION
+LAB//51100//mEq/L,Sodium [Moles/volume] in Urine,urine,CORE_KIDNEY_FUNCTION
+LAB//51479//#/lpf,Granular casts [#/area] in Urine sediment by Microscopy low power field,urine,CORE_KIDNEY_FUNCTION
+LAB//51092//N/A,Opiates [Presence] in Urine by Screen method,urine,CORE_KIDNEY_FUNCTION
+LAB//51980//N/A,fentaNYL [Presence] in Urine,urine,CORE_KIDNEY_FUNCTION
+LAB//51067//mg/24hr,Creatinine [Mass/time] in 24 hour Urine,creatinine,CORE_KIDNEY_FUNCTION
+LAB//51476//#/hpf,Epithelial cells [#/area] in Urine sediment by Microscopy high power field,urine,CORE_KIDNEY_FUNCTION
+PROCEDURE//START//225802,Continuous renal replacement therapy,renal,CORE_KIDNEY_FUNCTION
+LAB//51006//mg/dL,Urea nitrogen [Mass/volume] in Serum or Plasma,urea nitrogen,CORE_KIDNEY_FUNCTION
+LAB//51086//UNK,Immunofixation for Urine,urine,CORE_KIDNEY_FUNCTION
+LAB//51515//#/lpf,Waxy casts [#/area] in Urine sediment by Microscopy low power field,urine,CORE_KIDNEY_FUNCTION
+DIAGNOSIS//ICD//9//4401,Atherosclerosis of renal artery,renal,CORE_KIDNEY_FUNCTION
+LAB//51070//mg/g,Microalbumin/Creatinine [Mass Ratio] in 24 hour Urine,creatinine,CORE_KIDNEY_FUNCTION
+LAB//51052//mg/dL,Creatinine [Mass/volume] in Pleural fluid,creatinine,CORE_KIDNEY_FUNCTION
+DIAGNOSIS//ICD//9//40391,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease",renal,CORE_KIDNEY_FUNCTION
+LAB//51080//mL/min,Creatinine renal clearance in 24 hour Urine and Serum or Plasma,creatinine,CORE_KIDNEY_FUNCTION
+LAB//51107//UNK,"Urine tube, held",urine,CORE_KIDNEY_FUNCTION
+LAB//51501//#/hpf,Transitional cells [#/area] in Urine sediment by Microscopy high power field,urine,CORE_KIDNEY_FUNCTION
+LAB//51069//mg/dL,Microalbumin [Mass/volume] in Urine,urine,CORE_KIDNEY_FUNCTION
+DIAGNOSIS//ICD//9//V4511,Renal dialysis status,renal,CORE_KIDNEY_FUNCTION
+LAB//51071//N/A,Amphetamine [Presence] in Urine by Screen method,urine,CORE_KIDNEY_FUNCTION
+PROCEDURE//END//225802,Continuous renal replacement therapy,renal,CORE_KIDNEY_FUNCTION
+LAB//51469///hpf,Calcium oxalate crystals [Presence] in Urine sediment by Light microscopy,urine,CORE_KIDNEY_FUNCTION
+LAB//51079//N/A,Cocaine [Presence] in Urine,urine,CORE_KIDNEY_FUNCTION
+LAB//51105//mg/dL,Urate [Mass/volume] in Urine,urine,CORE_KIDNEY_FUNCTION
+LAB//51082//mg/dL,Creatinine [Mass/volume] in Urine,creatinine,CORE_KIDNEY_FUNCTION
+LAB//50841//mg/dL,Creatinine [Mass/volume] in Peritoneal fluid,creatinine,CORE_KIDNEY_FUNCTION
+LAB//51075//N/A,Benzodiazepines [Presence] in Urine by Screen method,urine,CORE_KIDNEY_FUNCTION
+LAB//51478//mg/dL,Glucose [Mass/volume] in Urine by Test strip,urine,CORE_KIDNEY_FUNCTION
+DIAGNOSIS//ICD//9//78820,"Retention of urine, unspecified",urine,CORE_KIDNEY_FUNCTION
+DIAGNOSIS//ICD//10//I701,Atherosclerosis of renal artery,renal,CORE_KIDNEY_FUNCTION
+LAB//51093//mOsm/kg,Osmolality of Urine,urine,CORE_KIDNEY_FUNCTION
+DIAGNOSIS//ICD//9//4263,Other left bundle branch block,bun,CORE_KIDNEY_FUNCTION
+LAB//51078//mEq/L,Chloride [Moles/volume] in Urine,urine,CORE_KIDNEY_FUNCTION
+LAB//51088//mg/dL,Magnesium [Mass/volume] in Urine,urine,CORE_KIDNEY_FUNCTION
+LAB//50912//mg/dL,Creatinine [Mass/volume] in Serum or Plasma,creatinine,CORE_KIDNEY_FUNCTION
+LAB//51089//N/A,Tetrahydrocannabinol [Presence] in Urine,urine,CORE_KIDNEY_FUNCTION
+LAB//51474//UNK,Eosinophils [Presence] in Urine sediment by Light microscopy,urine,CORE_KIDNEY_FUNCTION
+DIAGNOSIS//ICD//9//78829,Other specified retention of urine,urine,CORE_KIDNEY_FUNCTION
+LAB//51090//N/A,Methadone [Presence] in Urine,urine,CORE_KIDNEY_FUNCTION
+DIAGNOSIS//ICD//9//V4512,Noncompliance with renal dialysis,renal,CORE_KIDNEY_FUNCTION
+DIAGNOSIS//ICD//10//I132,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease",renal,CORE_KIDNEY_FUNCTION
+LAB//51989//N/A,oxyCODONE [Presence] in Urine,urine,CORE_KIDNEY_FUNCTION
+PROCEDURE//END//225454,Urine culture,urine,CORE_KIDNEY_FUNCTION
+DIAGNOSIS//ICD//10//K767,Hepatorenal syndrome,renal,CORE_KIDNEY_FUNCTION
+LAB//50920//UNK,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (MDRD)",creatinine,CORE_KIDNEY_FUNCTION
+DIAGNOSIS//ICD//10//I120,Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease,renal,CORE_KIDNEY_FUNCTION
+DIAGNOSIS//ICD//9//587,"Renal sclerosis, unspecified",renal,CORE_KIDNEY_FUNCTION
+DIAGNOSIS//ICD//10//N186,End stage renal disease,renal,CORE_KIDNEY_FUNCTION
+DIAGNOSIS//ICD//9//86801,"Injury to other intra-abdominal organs without mention of open wound into cavity, adrenal gland",renal,CORE_KIDNEY_FUNCTION
+LAB//51081//mg/dL,Creatinine [Mass/volume] in Serum or Plasma,creatinine,CORE_KIDNEY_FUNCTION
+LAB//51101//hrs,Collection duration of Urine,urine,CORE_KIDNEY_FUNCTION
+LAB//51463///hpf,Bacteria [#/area] in Urine sediment by Microscopy high power field,urine,CORE_KIDNEY_FUNCTION
+DIAGNOSIS//ICD//9//4264,Right bundle branch block,bun,CORE_KIDNEY_FUNCTION
+PROCEDURE//ICD//9//8845,Arteriography of renal arteries,renal,CORE_KIDNEY_FUNCTION
+LAB//51508//N/A,Color of Urine,urine,CORE_KIDNEY_FUNCTION
+LAB//51076//mEq/L,Bicarbonate [Moles/volume] in Urine,urine,CORE_KIDNEY_FUNCTION
+LAB//51074//N/A,Barbiturates [Presence] in Urine by Screen method,urine,CORE_KIDNEY_FUNCTION
+LAB//51095//mg/dL,Phosphate [Mass/volume] in Urine,urine,CORE_KIDNEY_FUNCTION
+LAB//51077//mg/dL,Calcium [Mass/volume] in Urine,urine,CORE_KIDNEY_FUNCTION
+PROCEDURE//START//225454,Urine culture,urine,CORE_KIDNEY_FUNCTION
+LAB//52024//mg/dL,Creatinine [Mass/volume] in Blood,creatinine,CORE_KIDNEY_FUNCTION
+LAB//51087//UNK,Collection duration of Urine,urine,CORE_KIDNEY_FUNCTION
+LAB//51486//N/A,Leukocytes [Presence] in Urine sediment by Light microscopy,urine,CORE_KIDNEY_FUNCTION
+LAB//51972//N/A,Chlamydia trachomatis [Presence] in Urine sediment by Organism specific culture,urine,CORE_KIDNEY_FUNCTION
+LAB//51108//mL,Volume of Urine,urine,CORE_KIDNEY_FUNCTION
+DIAGNOSIS//ICD//10//E278,Other specified disorders of adrenal gland,renal,CORE_KIDNEY_FUNCTION
+DIAGNOSIS//ICD//9//1987,Secondary malignant neoplasm of adrenal gland,renal,CORE_KIDNEY_FUNCTION
+DIAGNOSIS//ICD//9//25040,"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled",renal,CORE_KIDNEY_FUNCTION
+DIAGNOSIS//ICD//9//4473,Hyperplasia of renal artery,renal,CORE_KIDNEY_FUNCTION
+LAB//51506//N/A,Appearance of Urine,urine,CORE_KIDNEY_FUNCTION
+DIAGNOSIS//ICD//9//5856,End stage renal disease,renal,CORE_KIDNEY_FUNCTION
+LAB//51518///hpf,Leukocyte clumps [Presence] in Urine sediment by Light microscopy,urine,CORE_KIDNEY_FUNCTION
+DIAGNOSIS//ICD//10//R339,"Retention of urine, unspecified",urine,CORE_KIDNEY_FUNCTION
+LAB//51489//#/hpf,Epithelial cells.non-squamous [#/area] in Urine sediment by Microscopy high power field,urine,CORE_KIDNEY_FUNCTION
+LAB//51462///hpf,Crystals.amorphous [Presence] in Urine sediment by Light microscopy,urine,CORE_KIDNEY_FUNCTION
+DIAGNOSIS//ICD//9//7919,Other nonspecific findings on examination of urine,urine,CORE_KIDNEY_FUNCTION
+LAB//51097//mEq/L,Potassium [Moles/volume] in Urine,urine,CORE_KIDNEY_FUNCTION
+DIAGNOSIS//ICD//9//7530,Renal agenesis and dysgenesis,renal,CORE_KIDNEY_FUNCTION
+LAB//51492//mg/dL,Protein [Mass/volume] in Urine by Test strip,urine,CORE_KIDNEY_FUNCTION
+LAB//51491//units,pH of Urine by Test strip,urine,CORE_KIDNEY_FUNCTION
+LAB//51514//mg/dL,Urobilinogen [Mass/volume] in Urine by Test strip,urine,CORE_KIDNEY_FUNCTION
+DIAGNOSIS//ICD//9//E9320,Adrenal cortical steroids causing adverse effects in therapeutic use,renal,CORE_KIDNEY_FUNCTION
+LAB//51109//mL,Volume of Urine,urine,CORE_KIDNEY_FUNCTION
+LAB//51512///hpf,Mucus [Presence] in Urine sediment by Light microscopy,urine,CORE_KIDNEY_FUNCTION
+LAB//51497//#/hpf,Epithelial cells.renal [#/area] in Urine sediment by Microscopy high power field,urine,CORE_KIDNEY_FUNCTION
+LAB//51102//mg/dL,Protein [Mass/volume] in Urine,urine,CORE_KIDNEY_FUNCTION
+DIAGNOSIS//ICD//10//Z992,Dependence on renal dialysis,renal,CORE_KIDNEY_FUNCTION
+LAB//51104//mg/dL,Urea nitrogen [Mass/volume] in Urine,urea nitrogen,CORE_KIDNEY_FUNCTION
+LAB//51516//#/hpf,Leukocytes [#/area] in Urine sediment by Microscopy high power field,urine,CORE_KIDNEY_FUNCTION
+LAB//51487//N/A,Nitrite [Presence] in Urine by Test strip,urine,CORE_KIDNEY_FUNCTION
+LAB//51519///hpf,Yeast [#/area] in Urine sediment by Microscopy high power field,urine,CORE_KIDNEY_FUNCTION
+DIAGNOSIS//ICD//9//2555,Other adrenal hypofunction,renal,CORE_KIDNEY_FUNCTION
+PROCEDURE//ICD//10//5A02210,"Assistance with Cardiac Output using Balloon Pump, Continuous",cardiac output,HEMODYNAMICS_PERFUSION
+DIAGNOSIS//ICD//10//R740,Nonspecific elevation of levels of transaminase and lactic acid dehydrogenase [LDH],lactic acid,HEMODYNAMICS_PERFUSION
+DIAGNOSIS//ICD//10//L97429,Non-pressure chronic ulcer of left heel and midfoot with unspecified severity,pressure,HEMODYNAMICS_PERFUSION
+PROCEDURE//ICD//9//0069,"Intravascular pressure measurement, other specified and unspecified vessels",pressure,HEMODYNAMICS_PERFUSION
+PROCEDURE//ICD//10//4A023N6,"Measurement of Cardiac Sampling and Pressure, Right Heart, Percutaneous Approach",pressure,HEMODYNAMICS_PERFUSION
+DIAGNOSIS//ICD//9//78551,Cardiogenic shock,shock,HEMODYNAMICS_PERFUSION
+DIAGNOSIS//ICD//9//78552,Septic shock,shock,HEMODYNAMICS_PERFUSION
+PROCEDURE//START//227551,Plasmapheresis,map,HEMODYNAMICS_PERFUSION
+LAB//50954//IU/L,Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma,lactate,HEMODYNAMICS_PERFUSION
+PROCEDURE//ICD//9//9427,Other electroshock therapy,shock,HEMODYNAMICS_PERFUSION
+LAB//50843//IU/L,Lactate dehydrogenase [Enzymatic activity/volume] in Peritoneal fluid,lactate,HEMODYNAMICS_PERFUSION
+PROCEDURE//ICD//10//5A09557,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Positive Airway Pressure",pressure,HEMODYNAMICS_PERFUSION
+LAB//50819//UNK,Positive end expiratory pressure setting Ventilator,pressure,HEMODYNAMICS_PERFUSION
+PROCEDURE//ICD//10//4A133B3,"Monitoring of Arterial Pressure, Pulmonary, Percutaneous Approach",pressure,HEMODYNAMICS_PERFUSION
+DIAGNOSIS//ICD//10//L97514,Non-pressure chronic ulcer of other part of right foot with necrosis of bone,pressure,HEMODYNAMICS_PERFUSION
+PROCEDURE//END//227551,Plasmapheresis,map,HEMODYNAMICS_PERFUSION
+DIAGNOSIS//ICD//9//7904,Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH],lactic acid,HEMODYNAMICS_PERFUSION
+PROCEDURE//ICD//9//9359,"Other immobilization, pressure, and attention to wound",pressure,HEMODYNAMICS_PERFUSION
+PROCEDURE//END//226124,Introduction of intracranial pressure catheter,pressure,HEMODYNAMICS_PERFUSION
+DIAGNOSIS//ICD//10//R6520,Severe sepsis without septic shock,shock,HEMODYNAMICS_PERFUSION
+DIAGNOSIS//ICD//10//R6521,Severe sepsis with septic shock,shock,HEMODYNAMICS_PERFUSION
+PROCEDURE//START//226124,Introduction of intracranial pressure catheter,pressure,HEMODYNAMICS_PERFUSION
+LAB//50813//mmol/L,Lactate [Moles/volume] in Blood,lactate,HEMODYNAMICS_PERFUSION
+DIAGNOSIS//ICD//10//R570,Cardiogenic shock,shock,HEMODYNAMICS_PERFUSION
+PROCEDURE//ICD//10//5A1221Z,"Performance of Cardiac Output, Continuous",cardiac output,HEMODYNAMICS_PERFUSION
+PROCEDURE//ICD//10//4A023N7,"Measurement of Cardiac Sampling and Pressure, Left Heart, Percutaneous Approach",pressure,HEMODYNAMICS_PERFUSION
+DIAGNOSIS//ICD//10//L97519,Non-pressure chronic ulcer of other part of right foot with unspecified severity,pressure,HEMODYNAMICS_PERFUSION
+DIAGNOSIS//ICD//9//70703,"Pressure ulcer, lower back",pressure,HEMODYNAMICS_PERFUSION
+PROCEDURE//ICD//10//4A1239Z,"Monitoring of Cardiac Output, Percutaneous Approach",cardiac output,HEMODYNAMICS_PERFUSION
+PROCEDURE//ICD//9//9962,Other electric countershock of heart,shock,HEMODYNAMICS_PERFUSION
+DIAGNOSIS//ICD//10//L97511,Non-pressure chronic ulcer of other part of right foot limited to breakdown of skin,pressure,HEMODYNAMICS_PERFUSION
+DIAGNOSIS//ICD//9//70722,"Pressure ulcer, stage II",pressure,HEMODYNAMICS_PERFUSION
+PROCEDURE//START//225464,Direct current cardiac shock,shock,HEMODYNAMICS_PERFUSION
+PROCEDURE//END//225464,Direct current cardiac shock,shock,HEMODYNAMICS_PERFUSION
+DIAGNOSIS//ICD//10//L97523,Non-pressure chronic ulcer of other part of left foot with necrosis of muscle,pressure,HEMODYNAMICS_PERFUSION
+LAB//50801//mm Hg,Alveolar-arterial oxygen Partial pressure difference,pressure,HEMODYNAMICS_PERFUSION
+DIAGNOSIS//ICD//10//L97419,Non-pressure chronic ulcer of right heel and midfoot with unspecified severity,pressure,HEMODYNAMICS_PERFUSION
+DIAGNOSIS//ICD//10//L97529,Non-pressure chronic ulcer of other part of left foot with unspecified severity,pressure,HEMODYNAMICS_PERFUSION
+DIAGNOSIS//ICD//10//L97229,Non-pressure chronic ulcer of left calf with unspecified severity,pressure,HEMODYNAMICS_PERFUSION
+DIAGNOSIS//ICD//9//9584,Traumatic shock,shock,HEMODYNAMICS_PERFUSION
+DIAGNOSIS//ICD//10//L89899,"Pressure ulcer of other site, unspecified stage",pressure,HEMODYNAMICS_PERFUSION
+DIAGNOSIS//ICD//9//70723,"Pressure ulcer, stage III",pressure,HEMODYNAMICS_PERFUSION
+DIAGNOSIS//ICD//10//R578,Other shock,shock,HEMODYNAMICS_PERFUSION
+LAB//50818//mm Hg,Carbon dioxide [Partial pressure] in Blood,pressure,HEMODYNAMICS_PERFUSION
+DIAGNOSIS//ICD//9//99809,"Postoperative shock, other",shock,HEMODYNAMICS_PERFUSION
+LAB//51054//IU/L,Lactate dehydrogenase [Enzymatic activity/volume] in Pleural fluid,lactate,HEMODYNAMICS_PERFUSION
+DIAGNOSIS//ICD//10//R571,Hypovolemic shock,shock,HEMODYNAMICS_PERFUSION
+LAB//51035//IU/L,Lactate dehydrogenase [Enzymatic activity/volume] in Body fluid,lactate,HEMODYNAMICS_PERFUSION
+DIAGNOSIS//ICD//10//T8119XA,"Other postprocedural shock, initial encounter",shock,HEMODYNAMICS_PERFUSION
+PROCEDURE//ICD//9//3727,Cardiac mapping,map,HEMODYNAMICS_PERFUSION
+LAB//50821//mm Hg,Oxygen [Partial pressure] in Blood,pressure,HEMODYNAMICS_PERFUSION
+DIAGNOSIS//ICD//9//45182,Phlebitis and thrombophlebitis of superficial veins of upper extremities,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//10//06BQ0ZZ,"Excision of Left Saphenous Vein, Open Approach",ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//J15211,Pneumonia due to Methicillin susceptible Staphylococcus aureus,ph,ELECTROLYTES_ACID_BASE
+LAB//50856//ug/mL,Acetaminophen [Mass/volume] in Serum or Plasma,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//START//225457,Diagnostic radiography of abdomen,ph,ELECTROLYTES_ACID_BASE
+INFUSION_END//225166,potassium chloride Injection,potassium,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//29520,"Catatonic type schizophrenia, unspecified",ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//Z8571,Personal history of Hodgkin lymphoma,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//START//225427,Angiography,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//END//224264,Insertion of peripherally inserted central catheter,ph,ELECTROLYTES_ACID_BASE
+INFUSION_END//221833,hydromorphone Injection [Dilaudid],ph,ELECTROLYTES_ACID_BASE
+LAB//50803//mEq/L,Bicarbonate [Moles/volume] in Blood,bicarbonate,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//9//3990,Insertion of non-drug-eluting peripheral (non-coronary) vessel stent(s),ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//10//D7021ZZ,Beam Radiation of Spleen using Photons 1 - 10 MeV,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//R1310,"Dysphagia, unspecified",ph,ELECTROLYTES_ACID_BASE
+LAB//51375//%,Lymphocytes/100 leukocytes in Synovial fluid,ph,ELECTROLYTES_ACID_BASE
+LAB//50882//mEq/L,Bicarbonate [Moles/volume] in Serum or Plasma,bicarbonate,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//E1152,Type 2 diabetes mellitus with diabetic peripheral angiopathy with gangrene,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//10//06L38CZ,"Occlusion of Esophageal Vein with Extraluminal Device, Via Natural or Artificial Opening Endoscopic",ph,ELECTROLYTES_ACID_BASE
+LAB//51094//UNK,pH of Urine,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//48249,Other Staphylococcus pneumonia,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//6273,Postmenopausal atrophic vaginitis,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//53081,Esophageal reflux,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//START//221255,Transesophageal echocardiography,ph,ELECTROLYTES_ACID_BASE
+LAB//50970//mg/dL,Phosphate [Mass/volume] in Serum or Plasma,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//9//8847,Arteriography of other intra-abdominal arteries,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//START//224275,Peripheral venous cannula insertion,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//5829,Chronic glomerulonephritis with unspecified pathological lesion in kidney,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//73730,"Scoliosis [and kyphoscoliosis], idiopathic",ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//E8339,Other disorders of phosphorus metabolism,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//9//3726,Catheter based invasive electrophysiologic testing,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//F09,Unspecified mental disorder due to known physiological condition,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//START//227551,Plasmapheresis,ph,ELECTROLYTES_ACID_BASE
+LAB//51100//mEq/L,Sodium [Moles/volume] in Urine,sodium,ELECTROLYTES_ACID_BASE
+LAB//50902//mEq/L,Chloride [Moles/volume] in Serum or Plasma,chloride,ELECTROLYTES_ACID_BASE
+LAB//51427//%,Lymphocytes/100 leukocytes in Body fluid,ph,ELECTROLYTES_ACID_BASE
+INFUSION_END//220995,sodium bicarbonate 84 MG/ML Injection,sodium,ELECTROLYTES_ACID_BASE
+LAB//51133//K/uL,Lymphocytes [#/volume] in Blood by Automated count,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//START//225432,Transthoracic echocardiography,ph,ELECTROLYTES_ACID_BASE
+INFUSION_END//228315,acetaminophen Injection,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//END//225427,Angiography,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//9//4023,Excision of axillary lymph node,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//C9111,Chronic lymphocytic leukemia of B-cell type in remission,ph,ELECTROLYTES_ACID_BASE
+INFUSION_END//221289,epinephrine Injection,ph,ELECTROLYTES_ACID_BASE
+INFUSION_START//228339,amiodarone hydrochloride 1.2 MG/ML Injectable Solution,chloride,ELECTROLYTES_ACID_BASE
+LAB//51125//%,Polymorphonuclear cells/100 leukocytes in Peritoneal fluid,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//04119,"Staphylococcus infection in conditions classified elsewhere and of unspecified site, other staphylococcus",ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//9//403,Regional lymph node excision,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//END//221217,Ultrasonography,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//B9562,Methicillin resistant Staphylococcus aureus infection as the cause of diseases classified elsewhere,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//10//B54BZZA,"Ultrasonography of Right Lower Extremity Veins, Guidance",ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//START//224566,Peripheral venous cannula insertion,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//R490,Dysphonia,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//START//225402,Electrocardiographic procedure,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//V1204,Personal history of Methicillin resistant Staphylococcus aureus,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//F200,Paranoid schizophrenia,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//2536,Other disorders of neurohypophysis,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//9//8849,Arteriography of other specified sites,ph,ELECTROLYTES_ACID_BASE
+INFUSION_END//228339,amiodarone hydrochloride 1.2 MG/ML Injectable Solution,chloride,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//43811,"Late effects of cerebrovascular disease, aphasia",ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//F28,Other psychotic disorder not due to a substance or known physiological condition,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//04111,Methicillin susceptible Staphylococcus aureus in conditions classified elsewhere and of unspecified site,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//T17990A,"Other foreign object in respiratory tract, part unspecified in causing asphyxiation, initial encounter",ph,ELECTROLYTES_ACID_BASE
+LAB//51411//UNK,CD45 (Lymphs) cells/100 cells in Body fluid,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//1962,Secondary and unspecified malignant neoplasm of intra-abdominal lymph nodes,ph,ELECTROLYTES_ACID_BASE
+INFUSION_START//220995,sodium bicarbonate 84 MG/ML Injection,sodium,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//45620,"Esophageal varices in diseases classified elsewhere, with bleeding",ph,ELECTROLYTES_ACID_BASE
+LAB//51146//%,Basophils/100 leukocytes in Blood by Automated count,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//10//07B74ZX,"Excision of Thorax Lymphatic, Percutaneous Endoscopic Approach, Diagnostic",ph,ELECTROLYTES_ACID_BASE
+INFUSION_START//221833,hydromorphone Injection [Dilaudid],ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//K209,"Esophagitis, unspecified",ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//48241,Methicillin susceptible pneumonia due to Staphylococcus aureus,ph,ELECTROLYTES_ACID_BASE
+INFUSION_START//225166,potassium chloride Injection,potassium,ELECTROLYTES_ACID_BASE
+PROCEDURE//END//227551,Plasmapheresis,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//10//B543ZZ3,"Ultrasonography of Right Jugular Veins, Intravascular",ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//R1312,"Dysphagia, oropharyngeal phase",ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//G92,Toxic encephalopathy,ph,ELECTROLYTES_ACID_BASE
+LAB//51276//U/g/Hb,Glucose-6-Phosphate dehydrogenase [Enzymatic activity/mass] in Red Blood Cells,ph,ELECTROLYTES_ACID_BASE
+INFUSION_END//227689,phenytoin Injection,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//1505,Malignant neoplasm of lower third of esophagus,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//K449,Diaphragmatic hernia without obstruction or gangrene,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//END//224566,Peripheral venous cannula insertion,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//K311,Adult hypertrophic pyloric stenosis,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//78722,"Dysphagia, oropharyngeal phase",ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//T361X5A,"Adverse effect of cephalosporins and other beta-lactam antibiotics, initial encounter",ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//START//221214,Computerized axial tomography,ph,ELECTROLYTES_ACID_BASE
+LAB//51071//N/A,Amphetamine [Presence] in Urine by Screen method,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//5722,Hepatic encephalopathy,ph,ELECTROLYTES_ACID_BASE
+LAB//50831//units,pH of Body fluid,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//G1221,Amyotrophic lateral sclerosis,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//04112,Methicillin resistant Staphylococcus aureus in conditions classified elsewhere and of unspecified site,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//C9110,Chronic lymphocytic leukemia of B-cell type not having achieved remission,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//END//221223,Electroencephalogram,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//5809,Acute glomerulonephritis with unspecified pathological lesion in kidney,ph,ELECTROLYTES_ACID_BASE
+LAB//51376//%,Macrophages/100 leukocytes in Synovial fluid,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//33520,Amyotrophic lateral sclerosis,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//N12,"Tubulo-interstitial nephritis, not specified as acute or chronic",ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//48242,Methicillin resistant pneumonia due to Staphylococcus aureus,ph,ELECTROLYTES_ACID_BASE
+INFUSION_START//227536,potassium chloride Injection,potassium,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//N141,"Nephropathy induced by other drugs, medicaments and biological substances",ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//END//225429,Balloon tamponade of esophagus using Sengstaken-Blakemore tube,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//45981,"Venous (peripheral) insufficiency, unspecified",ph,ELECTROLYTES_ACID_BASE
+LAB//51112//%,Basophils/100 leukocytes in Peritoneal fluid,ph,ELECTROLYTES_ACID_BASE
+INFUSION_START//227526,sodium citrate Injectable Solution,sodium,ELECTROLYTES_ACID_BASE
+LAB//51078//mEq/L,Chloride [Moles/volume] in Urine,chloride,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//9//4011,Biopsy of lymphatic structure,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//N10,Acute pyelonephritis,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//END//225457,Diagnostic radiography of abdomen,ph,ELECTROLYTES_ACID_BASE
+LAB//51474//UNK,Eosinophils [Presence] in Urine sediment by Light microscopy,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//B9561,Methicillin susceptible Staphylococcus aureus infection as the cause of diseases classified elsewhere,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//53085,Barrett's esophagus,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//34831,Metabolic encephalopathy,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//E1151,Type 2 diabetes mellitus with diabetic peripheral angiopathy without gangrene,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//10//B548ZZA,"Ultrasonography of Superior Vena Cava, Guidance",ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//Z781,Physical restraint status,ph,ELECTROLYTES_ACID_BASE
+INFUSION_START//225834,potassium phosphate Injectable Solution,potassium,ELECTROLYTES_ACID_BASE
+PROCEDURE//START//224276,Peripheral venous cannula insertion,ph,ELECTROLYTES_ACID_BASE
+LAB//51292//N/A,Spherocytes [Presence] in Blood by Light microscopy,ph,ELECTROLYTES_ACID_BASE
+LAB//51183//UNK,CD45 (Lymphs) cells/100 cells in Blood,ph,ELECTROLYTES_ACID_BASE
+LAB//51145//N/A,Basophilic stippling [Presence] in Blood by Light microscopy,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//Z95820,Peripheral vascular angioplasty status with implants and grafts,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//START//224274,Peripheral venous cannula insertion,ph,ELECTROLYTES_ACID_BASE
+INFUSION_END//225834,potassium phosphate Injectable Solution,potassium,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//34830,"Encephalopathy, unspecified",ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//10//3E0336Z,"Introduction of Nutritional Substance into Peripheral Vein, Percutaneous Approach",ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//5370,Acquired hypertrophic pyloric stenosis,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//END//224275,Peripheral venous cannula insertion,ph,ELECTROLYTES_ACID_BASE
+INFUSION_END//225154,morphine Injection,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//START//221217,Ultrasonography,ph,ELECTROLYTES_ACID_BASE
+LAB//51114//%,Eosinophils/100 leukocytes in Peritoneal fluid,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//F29,Unspecified psychosis not due to a substance or known physiological condition,ph,ELECTROLYTES_ACID_BASE
+LAB//52073//K/uL,Eosinophils [#/volume] in Blood by Automated count,ph,ELECTROLYTES_ACID_BASE
+LAB//51444//%,Eosinophils/100 leukocytes in Pleural fluid,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//10//6A551Z3,"Pheresis of Plasma, Multiple",ph,ELECTROLYTES_ACID_BASE
+LAB//51382//%,Polymorphonuclear cells/100 leukocytes in Synovial fluid,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//END//224276,Peripheral venous cannula insertion,ph,ELECTROLYTES_ACID_BASE
+INFUSION_START//221906,norepinephrine Injection,ph,ELECTROLYTES_ACID_BASE
+LAB//51117//%,Macrophages/100 leukocytes in Peritoneal fluid by Manual count,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//5305,Dyskinesia of esophagus,ph,ELECTROLYTES_ACID_BASE
+LAB//50967//ug/mL,Phenytoin [Mass/volume] in Serum or Plasma,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//9//8842,Aortography,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//9//4242,Total esophagectomy,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//81600,"Closed fracture of phalanx or phalanges of hand, unspecified",ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//K222,Esophageal obstruction,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//1968,Secondary and unspecified malignant neoplasm of lymph nodes of multiple sites,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//G9340,"Encephalopathy, unspecified",ph,ELECTROLYTES_ACID_BASE
+INFUSION_END//227536,potassium chloride Injection,potassium,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//Q620,Congenital hydronephrosis,ph,ELECTROLYTES_ACID_BASE
+LAB//51338//UNK,Immunophenotyping study,ph,ELECTROLYTES_ACID_BASE
+LAB//51234//UNK,Immunophenotyping study,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//START//227550,Endoscopic retrograde cholangiopancreatography,ph,ELECTROLYTES_ACID_BASE
+LAB//50864//ng/mL,Alpha-1-Fetoprotein [Mass/volume] in Serum or Plasma,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//60000,Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS),ph,ELECTROLYTES_ACID_BASE
+INFUSION_START//225835,"sodium phosphate, dibasic / sodium phosphate, monobasic Injection",sodium,ELECTROLYTES_ACID_BASE
+INFUSION_START//221749,phenylephrine Injection,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//29532,"Paranoid type schizophrenia, chronic",ph,ELECTROLYTES_ACID_BASE
+INFUSION_END//221906,norepinephrine Injection,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//10//0D738DZ,"Dilation of Lower Esophagus with Intraluminal Device, Via Natural or Artificial Opening Endoscopic",ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//9//5349,Other open umbilical herniorrhaphy,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//34839,Other encephalopathy,ph,ELECTROLYTES_ACID_BASE
+LAB//51455//%,Polymorphonuclear cells/100 leukocytes in Pleural fluid,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//9//8845,Arteriography of renal arteries,ph,ELECTROLYTES_ACID_BASE
+LAB//51135//UNK,Adenosine diphosphate [Mass/volume] in Serum,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//3314,Obstructive hydrocephalus,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//END//227550,Endoscopic retrograde cholangiopancreatography,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//E790,Hyperuricemia without signs of inflammatory arthritis and tophaceous disease,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//F05,Delirium due to known physiological condition,ph,ELECTROLYTES_ACID_BASE
+LAB//52266//%,Macrophages/100 leukocytes in Cerebral spinal fluid,ph,ELECTROLYTES_ACID_BASE
+INFUSION_END//223259,insulin isophane Injectable Suspension,ph,ELECTROLYTES_ACID_BASE
+INFUSION_START//227529,Citric Acid 0.038 MEQ/ML / Glucose 24.5 MG/ML / sodium citrate 0.0748 MEQ/ML Injectable Solution,sodium,ELECTROLYTES_ACID_BASE
+INFUSION_END//227526,sodium citrate Injectable Solution,sodium,ELECTROLYTES_ACID_BASE
+LAB//51076//mEq/L,Bicarbonate [Moles/volume] in Urine,bicarbonate,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//9950,Other anaphylactic reaction,ph,ELECTROLYTES_ACID_BASE
+INFUSION_END//225835,"sodium phosphate, dibasic / sodium phosphate, monobasic Injection",sodium,ELECTROLYTES_ACID_BASE
+LAB//50802//mEq/L,Base excess in Blood by calculation,base excess,ELECTROLYTES_ACID_BASE
+LAB//51095//mg/dL,Phosphate [Mass/volume] in Urine,ph,ELECTROLYTES_ACID_BASE
+INFUSION_START//225154,morphine Injection,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//START//221216,Plain radiography,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//78720,"Dysphagia, unspecified",ph,ELECTROLYTES_ACID_BASE
+INFUSION_END//227522,potassium chloride Injection,potassium,ELECTROLYTES_ACID_BASE
+LAB//51419//%,Eosinophils/100 leukocytes in Body fluid,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//4571,Other lymphedema,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//END//224277,Peripheral venous cannula insertion,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//7843,Aphasia,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//END//225432,Transthoracic echocardiography,ph,ELECTROLYTES_ACID_BASE
+INFUSION_START//227689,phenytoin Injection,ph,ELECTROLYTES_ACID_BASE
+INFUSION_START//227690,fosphenytoin Injection,ph,ELECTROLYTES_ACID_BASE
+INFUSION_START//221289,epinephrine Injection,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//V0481,Need for prophylactic vaccination and inoculation against influenza,ph,ELECTROLYTES_ACID_BASE
+LAB//51245//%,Lymphocytes/100 leukocytes in Blood by Automated count,ph,ELECTROLYTES_ACID_BASE
+LAB//51110//%,Variant lymphocytes/100 leukocytes in Peritoneal fluid,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//K219,Gastro-esophageal reflux disease without esophagitis,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//10//3E03317,"Introduction of Other Thrombolytic into Peripheral Vein, Percutaneous Approach",ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//10//06BP4ZZ,"Excision of Right Saphenous Vein, Percutaneous Endoscopic Approach",ph,ELECTROLYTES_ACID_BASE
+LAB//52281//%,Polymorphonuclear cells/100 leukocytes in Cerebral spinal fluid,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//END//225204,Insertion of peripherally inserted central catheter,ph,ELECTROLYTES_ACID_BASE
+LAB//50824//mEq/L,Sodium [Moles/volume] in Blood,sodium,ELECTROLYTES_ACID_BASE
+LAB//51428//%,Macrophages/100 leukocytes in Body fluid,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//START//224277,Peripheral venous cannula insertion,ph,ELECTROLYTES_ACID_BASE
+INFUSION_START//228315,acetaminophen Injection,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//END//221214,Computerized axial tomography,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//9//8841,Arteriography of cerebral arteries,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//30001,Panic disorder without agoraphobia,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//V1079,Personal history of other lymphatic and hematopoietic neoplasms,ph,ELECTROLYTES_ACID_BASE
+LAB//50868//mEq/L,Anion gap 4 in Serum or Plasma,anion gap,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//9//5185,Endoscopic sphincterotomy and papillotomy,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//29530,"Paranoid type schizophrenia, unspecified",ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//E1121,Type 2 diabetes mellitus with diabetic nephropathy,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//I8511,Secondary esophageal varices with bleeding,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//9//8856,Coronary arteriography using two catheters,ph,ELECTROLYTES_ACID_BASE
+INFUSION_END//227690,fosphenytoin Injection,ph,ELECTROLYTES_ACID_BASE
+LAB//51436//%,Polymorphonuclear cells/100 leukocytes in Body fluid,ph,ELECTROLYTES_ACID_BASE
+LAB//51144//%,Band form neutrophils/100 leukocytes in Blood,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//5533,Diaphragmatic hernia without mention of obstruction or gangrene,ph,ELECTROLYTES_ACID_BASE
+LAB//50966//ug/mL,PHENobarbital [Mass/volume] in Serum or Plasma,ph,ELECTROLYTES_ACID_BASE
+LAB//51425//UNK,Kappa lymphocytes/100 lymphocytes in Body fluid,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//D721,Eosinophilia,ph,ELECTROLYTES_ACID_BASE
+LAB//51426//UNK,Lambda lymphocytes/100 lymphocytes in Specimen,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//END//225402,Electrocardiographic procedure,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//T17920A,"Food in respiratory tract, part unspecified causing asphyxiation, initial encounter",ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//END//225430,Angiocardiography,ph,ELECTROLYTES_ACID_BASE
+LAB//50971//mEq/L,Potassium [Moles/volume] in Serum or Plasma,potassium,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//58389,"Nephritis and nephropathy, not specified as acute or chronic, with other specified pathological lesion in kidney",ph,ELECTROLYTES_ACID_BASE
+LAB//51462///hpf,Crystals.amorphous [Presence] in Urine sediment by Light microscopy,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//9//8864,Phlebography of the portal venous system using contrast material,ph,ELECTROLYTES_ACID_BASE
+INFUSION_END//221749,phenylephrine Injection,ph,ELECTROLYTES_ACID_BASE
+LAB//51200//%,Eosinophils/100 leukocytes in Blood by Automated count,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//9//5343,Other laparoscopic umbilical herniorrhaphy,ph,ELECTROLYTES_ACID_BASE
+LAB//51097//mEq/L,Potassium [Moles/volume] in Urine,potassium,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//10//057F3ZZ,"Dilation of Left Cephalic Vein, Percutaneous Approach",ph,ELECTROLYTES_ACID_BASE
+LAB//50820//units,pH of Blood,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//START//221223,Electroencephalogram,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//9//8854,Combined right and left heart angiocardiography,ph,ELECTROLYTES_ACID_BASE
+LAB//51325//UNK,CD45 (Lymphs) cells/100 cells in Bone marrow,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//34982,Toxic encephalopathy,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//53012,Acute esophagitis,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//START//225429,Balloon tamponade of esophagus using Sengstaken-Blakemore tube,ph,ELECTROLYTES_ACID_BASE
+LAB//51491//units,pH of Urine by Test strip,ph,ELECTROLYTES_ACID_BASE
+LAB//51239//UNK,Lambda lymphocytes/100 lymphocytes in Blood,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//F209,"Schizophrenia, unspecified",ph,ELECTROLYTES_ACID_BASE
+LAB//51143//%,Variant lymphocytes/100 leukocytes in Blood,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//START//225430,Angiocardiography,ph,ELECTROLYTES_ACID_BASE
+LAB//51447//%,Macrophages/100 leukocytes in Pleural fluid by Manual count,ph,ELECTROLYTES_ACID_BASE
+LAB//51244//%,Lymphocytes/100 leukocytes in Blood by Automated count,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//I69391,Dysphagia following cerebral infarction,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//9//2911,Pharyngoscopy,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//10//DW021ZZ,Beam Radiation of Chest using Photons 1 - 10 MeV,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//R4701,Aphasia,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//I739,"Peripheral vascular disease, unspecified",ph,ELECTROLYTES_ACID_BASE
+LAB//50975//UNK,Protein Fractions [Interpretation] in Serum or Plasma by Electrophoresis,ph,ELECTROLYTES_ACID_BASE
+LAB//51256//%,Neutrophils/100 leukocytes in Blood by Automated count,ph,ELECTROLYTES_ACID_BASE
+LAB//51387//%,Basophils/100 leukocytes in Body fluid,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//4439,"Peripheral vascular disease, unspecified",ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//I8510,Secondary esophageal varices without bleeding,ph,ELECTROLYTES_ACID_BASE
+LAB//51341//UNK,Lambda lymphocytes/100 lymphocytes in Specimen,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//53010,"Esophagitis, unspecified",ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//25050,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled",ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//START//225204,Insertion of peripherally inserted central catheter,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//4561,Esophageal varices without mention of bleeding,ph,ELECTROLYTES_ACID_BASE
+LAB//51238//UNK,Kappa lymphocytes/100 lymphocytes in Blood,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//78442,Dysphonia,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//10//06BQ4ZZ,"Excision of Left Saphenous Vein, Percutaneous Endoscopic Approach",ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//60001,Hypertrophy (benign) of prostate with urinary obstruction and other lower urinary tract symptoms (LUTS),ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//END//221216,Plain radiography,ph,ELECTROLYTES_ACID_BASE
+LAB//51424//UNK,Immunophenotyping study,ph,ELECTROLYTES_ACID_BASE
+LAB//51386//%,Band form neutrophils/100 leukocytes in Body fluid,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//9//4029,Simple excision of other lymphatic structure,ph,ELECTROLYTES_ACID_BASE
+LAB//52171//N/A,Erythrocyte morphology finding [Identifier] in Blood,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//END//221255,Transesophageal echocardiography,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//2753,Disorders of phosphorus metabolism,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//9//4059,Radical excision of other lymph nodes,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//9//4516,Esophagogastroduodenoscopy [EGD] with closed biopsy,ph,ELECTROLYTES_ACID_BASE
+LAB//52769//#/uL,Lymphocytes [#/volume] in Blood by Automated count,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//04110,"Staphylococcus infection in conditions classified elsewhere and of unspecified site, staphylococcus, unspecified",ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//3569,Unspecified hereditary and idiopathic peripheral neuropathy,ph,ELECTROLYTES_ACID_BASE
+LAB//52069//K/uL,Basophils [#/volume] in Blood by Automated count,ph,ELECTROLYTES_ACID_BASE
+LAB//50983//mEq/L,Sodium [Moles/volume] in Serum or Plasma,sodium,ELECTROLYTES_ACID_BASE
+INFUSION_END//227529,Citric Acid 0.038 MEQ/ML / Glucose 24.5 MG/ML / sodium citrate 0.0748 MEQ/ML Injectable Solution,sodium,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//10//3E053GC,"Introduction of Other Therapeutic Substance into Peripheral Artery, Percutaneous Approach",ph,ELECTROLYTES_ACID_BASE
+LAB//51116//%,Lymphocytes/100 leukocytes in Peritoneal fluid,ph,ELECTROLYTES_ACID_BASE
+LAB//50806//mEq/L,Chloride [Moles/volume] in Blood,chloride,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//9//8848,Arteriography of femoral and other lower extremity arteries,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//END//224274,Peripheral venous cannula insertion,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//V4987,Physical restraints status,ph,ELECTROLYTES_ACID_BASE
+INFUSION_START//227522,potassium chloride Injection,potassium,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//A4102,Sepsis due to Methicillin resistant Staphylococcus aureus,ph,ELECTROLYTES_ACID_BASE
+LAB//52075//K/uL,Neutrophils [#/volume] in Blood by Automated count,ph,ELECTROLYTES_ACID_BASE
+LAB//51446//%,Lymphocytes/100 leukocytes in Pleural fluid,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//START//224264,Insertion of peripherally inserted central catheter,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//K2270,Barrett's esophagus without dysplasia,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//M40209,"Unspecified kyphosis, site unspecified",ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//4928,Other emphysema,ph,ELECTROLYTES_ACID_BASE
+LAB//50863//IU/L,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,ph,ELECTROLYTES_ACID_BASE
+INFUSION_START//223259,insulin isophane Injectable Suspension,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//10//R1319,Other dysphagia,ph,ELECTROLYTES_ACID_BASE
+LAB//51340//UNK,Kappa lymphocytes/100 lymphocytes in Bone marrow,ph,ELECTROLYTES_ACID_BASE
+DIAGNOSIS//ICD//9//78729,Other dysphagia,ph,ELECTROLYTES_ACID_BASE
+PROCEDURE//ICD//9//8853,Angiocardiography of left heart structures,ph,ELECTROLYTES_ACID_BASE
+LAB//50822//mEq/L,Potassium [Moles/volume] in Blood,potassium,ELECTROLYTES_ACID_BASE
+LAB//51613//mg/dL,Glucose mean value [Mass/volume] in Blood Estimated from glycated hemoglobin,hemoglobin,HEMATOLOGY_INFLAMMATION
+LAB//51226//%,Hemoglobin A/Hemoglobin.total in Blood,hemoglobin,HEMATOLOGY_INFLAMMATION
+DIAGNOSIS//ICD//10//R823,Hemoglobinuria,hemoglobin,HEMATOLOGY_INFLAMMATION
+LAB//51375//%,Lymphocytes/100 leukocytes in Synovial fluid,lymphocyte,HEMATOLOGY_INFLAMMATION
+LAB//51237//UNK,INR in Platelet poor plasma by Coagulation assay,platelet,HEMATOLOGY_INFLAMMATION
+LAB//51460//N/A,Hemoglobin.gastrointestinal [Presence] in Stool,hemoglobin,HEMATOLOGY_INFLAMMATION
+LAB//51427//%,Lymphocytes/100 leukocytes in Body fluid,lymphocyte,HEMATOLOGY_INFLAMMATION
+LAB//51133//K/uL,Lymphocytes [#/volume] in Blood by Automated count,lymphocyte,HEMATOLOGY_INFLAMMATION
+LAB//51275//sec,aPTT in Platelet poor plasma by Coagulation assay,platelet,HEMATOLOGY_INFLAMMATION
+LAB//51227//%,Hemoglobin S/Hemoglobin.total in Blood,hemoglobin,HEMATOLOGY_INFLAMMATION
+LAB//51271//%,Protein C actual/normal in Platelet poor plasma by Coagulation assay,platelet,HEMATOLOGY_INFLAMMATION
+DIAGNOSIS//ICD//10//Z7902,Long term (current) use of antithrombotics/antiplatelets,platelet,HEMATOLOGY_INFLAMMATION
+LAB//51224//%,Hemoglobin C/Hemoglobin.total in Blood,hemoglobin,HEMATOLOGY_INFLAMMATION
+DIAGNOSIS//ICD//9//V5863,Long-term (current) use of antiplatelet/antithrombotic,platelet,HEMATOLOGY_INFLAMMATION
+LAB//50811//g/dL,Hemoglobin [Mass/volume] in Blood,hemoglobin,HEMATOLOGY_INFLAMMATION
+DIAGNOSIS//ICD//10//D72819,"Decreased white blood cell count, unspecified",white blood cell,HEMATOLOGY_INFLAMMATION
+LAB//50852//%,Hemoglobin A1c/Hemoglobin.total in Blood,hemoglobin,HEMATOLOGY_INFLAMMATION
+LAB//51266//N/A,Platelet adequacy [Presence] in Blood by Light microscopy,platelet,HEMATOLOGY_INFLAMMATION
+LAB//51214//mg/dL,Fibrinogen [Mass/volume] in Platelet poor plasma by Coagulation assay,platelet,HEMATOLOGY_INFLAMMATION
+LAB//51115//%,Hematocrit [Volume Fraction] of Body fluid,hematocrit,HEMATOLOGY_INFLAMMATION
+LAB//50805//%,Carboxyhemoglobin/Hemoglobin.total in Blood,hemoglobin,HEMATOLOGY_INFLAMMATION
+LAB//51369//%,Hematocrit [Volume Fraction] of Synovial fluid,hematocrit,HEMATOLOGY_INFLAMMATION
+LAB//51265//K/uL,Platelets [#/volume] in Blood by Automated count,platelet,HEMATOLOGY_INFLAMMATION
+LAB//51195//UNK,Platelet aggregation collagen induced [Units/volume] in Blood,platelet,HEMATOLOGY_INFLAMMATION
+LAB//51221//%,Hematocrit [Volume Fraction] of Blood by Automated count,hematocrit,HEMATOLOGY_INFLAMMATION
+LAB//51245//%,Lymphocytes/100 leukocytes in Blood by Automated count,lymphocyte,HEMATOLOGY_INFLAMMATION
+LAB//51110//%,Variant lymphocytes/100 leukocytes in Peritoneal fluid,lymphocyte,HEMATOLOGY_INFLAMMATION
+LAB//50814//%,Methemoglobin/Hemoglobin.total in Blood,hemoglobin,HEMATOLOGY_INFLAMMATION
+LAB//51144//%,Band form neutrophils/100 leukocytes in Blood,neutrophil,HEMATOLOGY_INFLAMMATION
+LAB//51425//UNK,Kappa lymphocytes/100 lymphocytes in Body fluid,lymphocyte,HEMATOLOGY_INFLAMMATION
+LAB//51426//UNK,Lambda lymphocytes/100 lymphocytes in Specimen,lymphocyte,HEMATOLOGY_INFLAMMATION
+LAB//51422//%,Hematocrit [Volume Fraction] of Body fluid,hematocrit,HEMATOLOGY_INFLAMMATION
+LAB//51239//UNK,Lambda lymphocytes/100 lymphocytes in Blood,lymphocyte,HEMATOLOGY_INFLAMMATION
+LAB//51143//%,Variant lymphocytes/100 leukocytes in Blood,lymphocyte,HEMATOLOGY_INFLAMMATION
+LAB//51222//g/dL,Hemoglobin [Mass/volume] in Blood,hemoglobin,HEMATOLOGY_INFLAMMATION
+LAB//51244//%,Lymphocytes/100 leukocytes in Blood by Automated count,lymphocyte,HEMATOLOGY_INFLAMMATION
+LAB//51256//%,Neutrophils/100 leukocytes in Blood by Automated count,neutrophil,HEMATOLOGY_INFLAMMATION
+LAB//51341//UNK,Lambda lymphocytes/100 lymphocytes in Specimen,lymphocyte,HEMATOLOGY_INFLAMMATION
+LAB//51213//ug/mL,Fibrin+Fibrinogen fragments [Mass/volume] in Platelet poor plasma,platelet,HEMATOLOGY_INFLAMMATION
+LAB//51238//UNK,Kappa lymphocytes/100 lymphocytes in Blood,lymphocyte,HEMATOLOGY_INFLAMMATION
+LAB//51386//%,Band form neutrophils/100 leukocytes in Body fluid,neutrophil,HEMATOLOGY_INFLAMMATION
+LAB//52769//#/uL,Lymphocytes [#/volume] in Blood by Automated count,lymphocyte,HEMATOLOGY_INFLAMMATION
+LAB//51116//%,Lymphocytes/100 leukocytes in Peritoneal fluid,lymphocyte,HEMATOLOGY_INFLAMMATION
+LAB//52075//K/uL,Neutrophils [#/volume] in Blood by Automated count,neutrophil,HEMATOLOGY_INFLAMMATION
+LAB//51446//%,Lymphocytes/100 leukocytes in Pleural fluid,lymphocyte,HEMATOLOGY_INFLAMMATION
+LAB//51340//UNK,Kappa lymphocytes/100 lymphocytes in Bone marrow,lymphocyte,HEMATOLOGY_INFLAMMATION
+LAB//50810//%,Hematocrit [Volume Fraction] of Blood by Estimated,hematocrit,HEMATOLOGY_INFLAMMATION
+DIAGNOSIS//ICD//9//0388,Other specified septicemias,septic,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//5853,"Chronic kidney disease, Stage III (moderate)",chronic kidney,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//I509,"Heart failure, unspecified",heart failure,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//E11622,Type 2 diabetes mellitus with other skin ulcer,diabetes,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//E1152,Type 2 diabetes mellitus with diabetic peripheral angiopathy with gangrene,diabetes,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//24900,"Secondary diabetes mellitus without mention of complication, not stated as uncontrolled, or unspecified",diabetes,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//42830,"Diastolic heart failure, unspecified",heart failure,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//4019,Unspecified essential hypertension,hypertension,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//E11628,Type 2 diabetes mellitus with other skin complications,diabetes,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//K7031,Alcoholic cirrhosis of liver with ascites,cirrhosis,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//I5033,Acute on chronic diastolic (congestive) heart failure,heart failure,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//E1169,Type 2 diabetes mellitus with other specified complication,diabetes,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//78552,Septic shock,septic,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//E118,Type 2 diabetes mellitus with unspecified complications,diabetes,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//E11649,Type 2 diabetes mellitus with hypoglycemia without coma,diabetes,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//99592,Severe sepsis,sepsis,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//0383,Septicemia due to anaerobes,septic,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//0380,Streptococcal septicemia,septic,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//I10,Essential (primary) hypertension,hypertension,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//3572,Polyneuropathy in diabetes,diabetes,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//T383X6A,"Underdosing of insulin and oral hypoglycemic [antidiabetic] drugs, initial encounter",diabetic,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//99591,Sepsis,sepsis,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//E1010,Type 1 diabetes mellitus with ketoacidosis without coma,diabetes,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//N183,"Chronic kidney disease, stage 3 (moderate)",chronic kidney,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//I5032,Chronic diastolic (congestive) heart failure,heart failure,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//I129,"Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",chronic kidney,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//42833,Acute on chronic diastolic heart failure,heart failure,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//40391,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease",chronic kidney,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//E1122,Type 2 diabetes mellitus with diabetic chronic kidney disease,diabetes,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//5723,Portal hypertension,hypertension,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//K7460,Unspecified cirrhosis of liver,cirrhosis,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//42822,Chronic systolic heart failure,heart failure,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//I2720,"Pulmonary hypertension, unspecified",hypertension,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//5855,"Chronic kidney disease, Stage V",chronic kidney,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//I5031,Acute diastolic (congestive) heart failure,heart failure,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//25012,"Diabetes with ketoacidosis, type II or unspecified type, uncontrolled",diabetes,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//I272,Other secondary pulmonary hypertension,hypertension,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//4280,"Congestive heart failure, unspecified",heart failure,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//25082,"Diabetes with other specified manifestations, type II or unspecified type, uncontrolled",diabetes,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//5715,Cirrhosis of liver without mention of alcohol,cirrhosis,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//R6520,Severe sepsis without septic shock,sepsis,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//40300,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage I through stage IV, or unspecified",chronic kidney,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//42821,Acute systolic heart failure,heart failure,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//R6521,Severe sepsis with septic shock,sepsis,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//E119,Type 2 diabetes mellitus without complications,diabetes,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//V180,Family history of diabetes mellitus,diabetes,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//I5021,Acute systolic (congestive) heart failure,heart failure,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//A4189,Other specified sepsis,sepsis,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//E1165,Type 2 diabetes mellitus with hyperglycemia,diabetes,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//42832,Chronic diastolic heart failure,heart failure,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//E1151,Type 2 diabetes mellitus with diabetic peripheral angiopathy without gangrene,diabetes,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//I132,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease",heart failure,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//28521,Anemia in chronic kidney disease,chronic kidney,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//25060,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled",diabetes,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//I130,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",heart failure,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//I120,Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease,chronic kidney,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//5712,Alcoholic cirrhosis of liver,cirrhosis,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//N189,"Chronic kidney disease, unspecified",chronic kidney,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//I97131,Postprocedural heart failure following other surgery,heart failure,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//E1140,"Type 2 diabetes mellitus with diabetic neuropathy, unspecified",diabetes,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//40491,"Hypertensive heart and chronic kidney disease, unspecified, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified",heart failure,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//E1136,Type 2 diabetes mellitus with diabetic cataract,diabetes,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//K7030,Alcoholic cirrhosis of liver without ascites,cirrhosis,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//40390,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified",chronic kidney,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//I5042,Chronic combined systolic (congestive) and diastolic (congestive) heart failure,heart failure,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//A408,Other streptococcal sepsis,sepsis,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//I5023,Acute on chronic systolic (congestive) heart failure,heart failure,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//25040,"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled",diabetes,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//E1142,Type 2 diabetes mellitus with diabetic polyneuropathy,diabetes,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//0389,Unspecified septicemia,septic,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//D631,Anemia in chronic kidney disease,chronic kidney,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//25080,"Diabetes with other specified manifestations, type II or unspecified type, not stated as uncontrolled",diabetes,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//36201,Background diabetic retinopathy,diabetic,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//A4151,Sepsis due to Escherichia coli [E. coli],sepsis,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//I110,Hypertensive heart disease with heart failure,heart failure,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//42843,Acute on chronic combined systolic and diastolic heart failure,heart failure,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//E1121,Type 2 diabetes mellitus with diabetic nephropathy,diabetes,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//N184,"Chronic kidney disease, stage 4 (severe)",chronic kidney,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//25062,"Diabetes with neurological manifestations, type II or unspecified type, uncontrolled",diabetes,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//03843,Septicemia due to pseudomonas,septic,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//25002,"Diabetes mellitus without mention of complication, type II or unspecified type, uncontrolled",diabetes,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//03849,Other septicemia due to gram-negative organisms,septic,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//E0865,Diabetes mellitus due to underlying condition with hyperglycemia,diabetes,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//5859,"Chronic kidney disease, unspecified",chronic kidney,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//42823,Acute on chronic systolic heart failure,heart failure,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//I5043,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure,heart failure,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//25050,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled",diabetes,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//5718,Other chronic nonalcoholic liver disease,liver disease,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//E11621,Type 2 diabetes mellitus with foot ulcer,diabetes,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//K7469,Other cirrhosis of liver,cirrhosis,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//42842,Chronic combined systolic and diastolic heart failure,heart failure,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//25000,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",diabetes,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//25022,"Diabetes with hyperosmolarity, type II or unspecified type, uncontrolled",diabetes,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//A419,"Sepsis, unspecified organism",sepsis,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//T383X1A,"Poisoning by insulin and oral hypoglycemic [antidiabetic] drugs, accidental (unintentional), initial encounter",diabetic,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//03842,Septicemia due to escherichia coli [E. coli],septic,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//I5022,Chronic systolic (congestive) heart failure,heart failure,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//A4102,Sepsis due to Methicillin resistant Staphylococcus aureus,sepsis,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//10//K766,Portal hypertension,hypertension,COMORBIDITIES_CAUSES
+DIAGNOSIS//ICD//9//9623,Poisoning by insulins and antidiabetic agents,diabetic,COMORBIDITIES_CAUSES
+PROCEDURE//ICD//10//B51W1ZZ,Fluoroscopy of Dialysis Shunt/Fistula using Low Osmolar Contrast,dialysis,TREATMENTS_INTERVENTIONS
+PROCEDURE//ICD//10//5A1935Z,"Respiratory Ventilation, Less than 24 Consecutive Hours",ventilation,TREATMENTS_INTERVENTIONS
+INFUSION_END//221794,furosemide Injectable Solution [Lasix],furosemide,TREATMENTS_INTERVENTIONS
+LAB//50828//UNK,Ventilation mode Ventilator,ventilator,TREATMENTS_INTERVENTIONS
+PROCEDURE//ICD//10//5A1945Z,"Respiratory Ventilation, 24-96 Consecutive Hours",ventilation,TREATMENTS_INTERVENTIONS
+PROCEDURE//START//225802,Continuous renal replacement therapy,renal replacement,TREATMENTS_INTERVENTIONS
+INFUSION_END//221289,epinephrine Injection,epinephrine,TREATMENTS_INTERVENTIONS
+DIAGNOSIS//ICD//10//Z9911,Dependence on respirator [ventilator] status,ventilator,TREATMENTS_INTERVENTIONS
+DIAGNOSIS//ICD//9//E9444,Other diuretics causing adverse effects in therapeutic use,diuretic,TREATMENTS_INTERVENTIONS
+PROCEDURE//ICD//10//5A09557,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Positive Airway Pressure",ventilation,TREATMENTS_INTERVENTIONS
+INFUSION_START//228340,furosemide 50 MG/ML Injectable Solution,furosemide,TREATMENTS_INTERVENTIONS
+LAB//50819//UNK,Positive end expiratory pressure setting Ventilator,ventilator,TREATMENTS_INTERVENTIONS
+PROCEDURE//START//225794,Noninvasive ventilation,ventilation,TREATMENTS_INTERVENTIONS
+INFUSION_END//228340,furosemide 50 MG/ML Injectable Solution,furosemide,TREATMENTS_INTERVENTIONS
+DIAGNOSIS//ICD//9//V4511,Renal dialysis status,dialysis,TREATMENTS_INTERVENTIONS
+PROCEDURE//END//225802,Continuous renal replacement therapy,renal replacement,TREATMENTS_INTERVENTIONS
+DIAGNOSIS//ICD//10//T8242XA,"Displacement of vascular dialysis catheter, initial encounter",dialysis,TREATMENTS_INTERVENTIONS
+PROCEDURE//START//224270,"Insertion of cannula for hemodialysis, vein to vein",dialysis,TREATMENTS_INTERVENTIONS
+PROCEDURE//START//225441,Hemodialysis,dialysis,TREATMENTS_INTERVENTIONS
+DIAGNOSIS//ICD//10//E222,Syndrome of inappropriate secretion of antidiuretic hormone,diuretic,TREATMENTS_INTERVENTIONS
+DIAGNOSIS//ICD//10//T501X5A,"Adverse effect of loop [high-ceiling] diuretics, initial encounter",diuretic,TREATMENTS_INTERVENTIONS
+PROCEDURE//END//225441,Hemodialysis,dialysis,TREATMENTS_INTERVENTIONS
+DIAGNOSIS//ICD//9//V4512,Noncompliance with renal dialysis,dialysis,TREATMENTS_INTERVENTIONS
+PROCEDURE//END//225794,Noninvasive ventilation,ventilation,TREATMENTS_INTERVENTIONS
+INFUSION_START//221906,norepinephrine Injection,norepinephrine,TREATMENTS_INTERVENTIONS
+PROCEDURE//END//225792,Invasive ventilation,ventilation,TREATMENTS_INTERVENTIONS
+DIAGNOSIS//ICD//9//99731,Ventilator associated pneumonia,ventilator,TREATMENTS_INTERVENTIONS
+INFUSION_END//221662,dopamine Injection,dopamine,TREATMENTS_INTERVENTIONS
+INFUSION_START//221749,phenylephrine Injection,phenylephrine,TREATMENTS_INTERVENTIONS
+INFUSION_END//221906,norepinephrine Injection,norepinephrine,TREATMENTS_INTERVENTIONS
+INFUSION_END//222315,vasopressin (USP) Injection,vasopressin,TREATMENTS_INTERVENTIONS
+LAB//50827//UNK,Ventilation rate by Carbon dioxide measurement,ventilation,TREATMENTS_INTERVENTIONS
+INFUSION_START//221794,furosemide Injectable Solution [Lasix],furosemide,TREATMENTS_INTERVENTIONS
+PROCEDURE//ICD//9//9672,Continuous invasive mechanical ventilation for 96 consecutive hours or more,ventilation,TREATMENTS_INTERVENTIONS
+INFUSION_START//222315,vasopressin (USP) Injection,vasopressin,TREATMENTS_INTERVENTIONS
+INFUSION_START//221289,epinephrine Injection,epinephrine,TREATMENTS_INTERVENTIONS
+PROCEDURE//ICD//9//9390,Non-invasive mechanical ventilation,ventilation,TREATMENTS_INTERVENTIONS
+PROCEDURE//END//224270,"Insertion of cannula for hemodialysis, vein to vein",dialysis,TREATMENTS_INTERVENTIONS
+INFUSION_START//221662,dopamine Injection,dopamine,TREATMENTS_INTERVENTIONS
+PROCEDURE//ICD//10//5A1955Z,"Respiratory Ventilation, Greater than 96 Consecutive Hours",ventilation,TREATMENTS_INTERVENTIONS
+DIAGNOSIS//ICD//10//J95851,Ventilator associated pneumonia,ventilator,TREATMENTS_INTERVENTIONS
+INFUSION_END//221749,phenylephrine Injection,phenylephrine,TREATMENTS_INTERVENTIONS
+PROCEDURE//START//225792,Invasive ventilation,ventilation,TREATMENTS_INTERVENTIONS
+PROCEDURE//ICD//9//3995,Hemodialysis,dialysis,TREATMENTS_INTERVENTIONS
+DIAGNOSIS//ICD//10//T8249XA,"Other complication of vascular dialysis catheter, initial encounter",dialysis,TREATMENTS_INTERVENTIONS
+LAB//50826//UNK,Tidal volume setting Ventilator,ventilator,TREATMENTS_INTERVENTIONS
+DIAGNOSIS//ICD//10//Z992,Dependence on renal dialysis,dialysis,TREATMENTS_INTERVENTIONS
+PROCEDURE//ICD//9//9671,Continuous invasive mechanical ventilation for less than 96 consecutive hours,ventilation,TREATMENTS_INTERVENTIONS
+LAB//50812//UNK,Intubated,intubated,TREATMENTS_INTERVENTIONS
